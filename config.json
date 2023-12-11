@@ -1,0 +1,14 @@
+
+
+{
+  "okta": {
+    "uri": "https://dev-asjjjsfjh.okta.com/oauth2/default",
+    "audience": "api://default",
+    "clientId": "0oadnnuczhjsfhf7"
+  },
+   "otherConfig": {
+    "dateFormat":"\"%Y-%m-%d\"",
+     "moduleEndpointUrl": "http://localhost:8000/"
+  }
+
+}
